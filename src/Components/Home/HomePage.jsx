@@ -1,10 +1,18 @@
 import React from "react";
+import Header from "./Header";
+import University from "./university.jsx";
+import Background from "./background";
 
 function HomePage() {
   return (
-    <div style={{backgroundColor: "tan"}}>
-     <h1>Bienvenida a la pagina de inicio</h1>
-    </div>
+    <div className="h-full w-full max-h-full">
+      <Background />
+     
+      <Header />
+      <University />
+  </div>
+    
+    
   )
 }
 

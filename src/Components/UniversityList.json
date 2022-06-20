@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Yerevan State University",
+    "faculties": [
+      {
+        "name": "Faculty of History",
+        "key": "history"
+      },
+      {
+        "name": "Faculty of Chemistry",
+        "key": "chemistry"
+      },
+      {
+        "name": "Faculty of Physics",
+        "key": "physics"
+      },
+      {
+        "name": "Faculty of Biology",
+        "key": "biology"
+      },
+      {
+        "name": "Faculty of Law",
+        "key": "law"
+      }
+    ]
+  },
+  {
+    "name": "Yerevan Polytechnic University",
+    "faculties": [
+      {
+        "name": "Faculty of Applied Mathematics and Physics",
+        "key": "math"
+      },
+      {
+        "name": "Institute of Energetics and Electrotechnic",
+        "key": "energo"
+      },
+      {
+        "name": "Institute of Information and Communication Technologies and Electronics",
+        "key": "tech"
+      }
+    ]
+  },
+  {
+    "name": "Armenian State Pedagogical University",
+    "faculties": [
+      {
+        "name": "Faculty of Culture",
+        "key": "culture"
+      },
+      {
+        "name": "Faculty of Art Education",
+        "key": "art"
+      },
+      {
+        "name": "Faculty of Foreign Languages",
+        "key": "languages"
+      },
+      {
+        "name": "Faculty of History and Social Science",
+        "key": "social"
+      }
+    ]
+  },
+  {
+    "name": "Yerevan State Medical University",
+    "faculties": [
+      {
+        "name": "Faculty of General Medecine",
+        "key": "general"
+      },
+      {
+        "name": "Faculty of Public Health",
+        "key": "public"
+      },
+      {
+        "name": "Faculty of Stomatology",
+        "key": "stomatology"
+      }
+    ]
+  }
+]

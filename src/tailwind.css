@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.home-bg {
+  background-image: url("https://thumbs.dreamstime.com/z/graduation-celebration-university-students-background-abstrakt-106382616.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.5;
+  height: 805px;
+  max-width: 100%;
+  width: 100%;
+}
+
+.home-black-layer{
+  background-color: black;
+  background-size: cover;
+  height: 806px;
+  max-width: 100%;
+  width: 100%;
+  position: fixed;
+  z-index: -1;
+}
