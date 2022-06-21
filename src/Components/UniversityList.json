@@ -67,11 +67,11 @@
     "faculties": [
       {
         "name": "Faculty of General Medecine",
-        "key": "general"
+        "key": "medecine"
       },
       {
         "name": "Faculty of Public Health",
-        "key": "public"
+        "key": "health"
       },
       {
         "name": "Faculty of Stomatology",

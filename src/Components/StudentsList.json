@@ -1,0 +1,752 @@
+[
+  {
+    "key": "history",
+    "students": [
+      {
+        "name": "Robert",
+        "surname": "Sahakyan",
+        "grade": 17
+      },
+      {
+        "name": "Vahag",
+        "surname": "Stepanyan",
+        "grade": 12
+      },
+      {
+        "name": "Syuzanna",
+        "surname": "Makaryan",
+        "grade": 18
+      },
+      {
+        "name": "Qristine",
+        "surname": "Arshakyan",
+        "grade": 16
+      },
+      {
+        "name": "Stepan",
+        "surname": "Arzumanyan",
+        "grade": 19
+      },
+      {
+        "name": "Nelson",
+        "surname": "Khachatryan",
+        "grade": 15
+      },
+      {
+        "name": "Gor",
+        "surname": "Margaryan",
+        "grade": 16
+      },
+      {
+        "name": "Galust",
+        "surname": "Ishkhanyan",
+        "grade": 14
+      },
+      {
+        "name": "Tatev",
+        "surname": "Hayrapetyan",
+        "grade": 19
+      }
+    ]
+  },
+  {
+    "key": "chemistry",
+    "students": [
+      {
+        "name": "Vazgen",
+        "surname": "Tadevosyan",
+        "grade": 17
+      },
+      {
+        "name": "Vahag",
+        "surname": "Stepanyan",
+        "grade": 12
+      },
+      {
+        "name": "Syuzanna",
+        "surname": "Makaryan",
+        "grade": 18
+      },
+      {
+        "name": "Qristine",
+        "surname": "Arshakyan",
+        "grade": 16
+      },
+      {
+        "name": "Stepan",
+        "surname": "Arzumanyan",
+        "grade": 19
+      },
+      {
+        "name": "Nelson",
+        "surname": "Khachatryan",
+        "grade": 15
+      },
+      {
+        "name": "Gor",
+        "surname": "Margaryan",
+        "grade": 16
+      },
+      {
+        "name": "Galust",
+        "surname": "Ishkhanyan",
+        "grade": 14
+      },
+      {
+        "name": "Tatev",
+        "surname": "Hayrapetyan",
+        "grade": 19
+      }
+    ]
+  },
+  {
+    "key": "physics",
+    "students": [
+      {
+        "name": "Yervand",
+        "surname": "Qocharyan",
+        "grade": 12
+      },
+      {
+        "name": "Vahag",
+        "surname": "Stepanyan",
+        "grade": 12
+      },
+      {
+        "name": "Syuzanna",
+        "surname": "Makaryan",
+        "grade": 18
+      },
+      {
+        "name": "Qristine",
+        "surname": "Arshakyan",
+        "grade": 16
+      },
+      {
+        "name": "Stepan",
+        "surname": "Arzumanyan",
+        "grade": 19
+      },
+      {
+        "name": "Nelson",
+        "surname": "Khachatryan",
+        "grade": 15
+      },
+      {
+        "name": "Gor",
+        "surname": "Margaryan",
+        "grade": 16
+      },
+      {
+        "name": "Galust",
+        "surname": "Ishkhanyan",
+        "grade": 14
+      },
+      {
+        "name": "Tatev",
+        "surname": "Hayrapetyan",
+        "grade": 19
+      }
+    ]
+  },
+  {
+    "key": "biology",
+    "students": [
+      {
+        "name": "Gevorg",
+        "surname": "Arevshatyan",
+        "grade": 19
+      },
+      {
+        "name": "Vahag",
+        "surname": "Stepanyan",
+        "grade": 12
+      },
+      {
+        "name": "Syuzanna",
+        "surname": "Makaryan",
+        "grade": 18
+      },
+      {
+        "name": "Qristine",
+        "surname": "Arshakyan",
+        "grade": 16
+      },
+      {
+        "name": "Stepan",
+        "surname": "Arzumanyan",
+        "grade": 19
+      },
+      {
+        "name": "Nelson",
+        "surname": "Khachatryan",
+        "grade": 15
+      },
+      {
+        "name": "Gor",
+        "surname": "Margaryan",
+        "grade": 16
+      },
+      {
+        "name": "Galust",
+        "surname": "Ishkhanyan",
+        "grade": 14
+      },
+      {
+        "name": "Tatev",
+        "surname": "Hayrapetyan",
+        "grade": 19
+      }
+    ]
+  },
+  {
+    "key": "law",
+    "students": [
+      {
+        "name": "Gegham",
+        "surname": "Hovanisyan",
+        "grade": 20
+      },
+      {
+        "name": "Vahag",
+        "surname": "Stepanyan",
+        "grade": 12
+      },
+      {
+        "name": "Syuzanna",
+        "surname": "Makaryan",
+        "grade": 18
+      },
+      {
+        "name": "Qristine",
+        "surname": "Arshakyan",
+        "grade": 16
+      },
+      {
+        "name": "Stepan",
+        "surname": "Arzumanyan",
+        "grade": 19
+      },
+      {
+        "name": "Nelson",
+        "surname": "Khachatryan",
+        "grade": 15
+      },
+      {
+        "name": "Gor",
+        "surname": "Margaryan",
+        "grade": 16
+      },
+      {
+        "name": "Galust",
+        "surname": "Ishkhanyan",
+        "grade": 14
+      },
+      {
+        "name": "Tatev",
+        "surname": "Hayrapetyan",
+        "grade": 19
+      }
+    ]
+  },
+  {
+    "key": "math",
+    "students": [
+      {
+        "name": "Shushanna",
+        "surname": "Gyulnazaryan",
+        "grade": 18
+      },
+      {
+        "name": "Vahag",
+        "surname": "Stepanyan",
+        "grade": 12
+      },
+      {
+        "name": "Syuzanna",
+        "surname": "Makaryan",
+        "grade": 18
+      },
+      {
+        "name": "Qristine",
+        "surname": "Arshakyan",
+        "grade": 16
+      },
+      {
+        "name": "Stepan",
+        "surname": "Arzumanyan",
+        "grade": 19
+      },
+      {
+        "name": "Nelson",
+        "surname": "Khachatryan",
+        "grade": 15
+      },
+      {
+        "name": "Gor",
+        "surname": "Margaryan",
+        "grade": 16
+      },
+      {
+        "name": "Galust",
+        "surname": "Ishkhanyan",
+        "grade": 14
+      },
+      {
+        "name": "Tatev",
+        "surname": "Hayrapetyan",
+        "grade": 19
+      }
+    ]
+  },
+  {
+    "key": "energo",
+    "students": [
+      {
+        "name": "Davit",
+        "surname": "Sahakyan",
+        "grade": 17
+      },
+      {
+        "name": "Vahag",
+        "surname": "Stepanyan",
+        "grade": 12
+      },
+      {
+        "name": "Syuzanna",
+        "surname": "Makaryan",
+        "grade": 18
+      },
+      {
+        "name": "Qristine",
+        "surname": "Arshakyan",
+        "grade": 16
+      },
+      {
+        "name": "Stepan",
+        "surname": "Arzumanyan",
+        "grade": 19
+      },
+      {
+        "name": "Nelson",
+        "surname": "Khachatryan",
+        "grade": 15
+      },
+      {
+        "name": "Gor",
+        "surname": "Margaryan",
+        "grade": 16
+      },
+      {
+        "name": "Galust",
+        "surname": "Ishkhanyan",
+        "grade": 14
+      },
+      {
+        "name": "Tatev",
+        "surname": "Hayrapetyan",
+        "grade": 19
+      }
+    ]
+  },
+  {
+    "key": "tech",
+    "students": [
+      {
+        "name": "Varazdat",
+        "surname": "Mkhitaryan",
+        "grade": 19
+      },
+      {
+        "name": "Vahag",
+        "surname": "Stepanyan",
+        "grade": 12
+      },
+      {
+        "name": "Syuzanna",
+        "surname": "Makaryan",
+        "grade": 18
+      },
+      {
+        "name": "Qristine",
+        "surname": "Arshakyan",
+        "grade": 16
+      },
+      {
+        "name": "Stepan",
+        "surname": "Arzumanyan",
+        "grade": 19
+      },
+      {
+        "name": "Nelson",
+        "surname": "Khachatryan",
+        "grade": 15
+      },
+      {
+        "name": "Gor",
+        "surname": "Margaryan",
+        "grade": 16
+      },
+      {
+        "name": "Galust",
+        "surname": "Ishkhanyan",
+        "grade": 14
+      },
+      {
+        "name": "Tatev",
+        "surname": "Hayrapetyan",
+        "grade": 19
+      }
+    ]
+  },
+  {
+    "key": "culture",
+    "students": [
+      {
+        "name": "Garik",
+        "surname": "Harutyunyan",
+        "grade": 13
+      },
+      {
+        "name": "Vahag",
+        "surname": "Stepanyan",
+        "grade": 12
+      },
+      {
+        "name": "Syuzanna",
+        "surname": "Makaryan",
+        "grade": 18
+      },
+      {
+        "name": "Qristine",
+        "surname": "Arshakyan",
+        "grade": 16
+      },
+      {
+        "name": "Stepan",
+        "surname": "Arzumanyan",
+        "grade": 19
+      },
+      {
+        "name": "Nelson",
+        "surname": "Khachatryan",
+        "grade": 15
+      },
+      {
+        "name": "Gor",
+        "surname": "Margaryan",
+        "grade": 16
+      },
+      {
+        "name": "Galust",
+        "surname": "Ishkhanyan",
+        "grade": 14
+      },
+      {
+        "name": "Tatev",
+        "surname": "Hayrapetyan",
+        "grade": 19
+      }
+    ]
+  },
+  {
+    "key": "art",
+    "students": [
+      {
+        "name": "Luiza",
+        "surname": "Kirakosyan",
+        "grade": 15
+      },
+      {
+        "name": "Vahag",
+        "surname": "Stepanyan",
+        "grade": 12
+      },
+      {
+        "name": "Syuzanna",
+        "surname": "Makaryan",
+        "grade": 18
+      },
+      {
+        "name": "Qristine",
+        "surname": "Arshakyan",
+        "grade": 16
+      },
+      {
+        "name": "Stepan",
+        "surname": "Arzumanyan",
+        "grade": 19
+      },
+      {
+        "name": "Nelson",
+        "surname": "Khachatryan",
+        "grade": 15
+      },
+      {
+        "name": "Gor",
+        "surname": "Margaryan",
+        "grade": 16
+      },
+      {
+        "name": "Galust",
+        "surname": "Ishkhanyan",
+        "grade": 14
+      },
+      {
+        "name": "Tatev",
+        "surname": "Hayrapetyan",
+        "grade": 19
+      }
+    ]
+  },
+  {
+    "key": "languages",
+    "students": [
+      {
+        "name": "Donara",
+        "surname": "Davtyan",
+        "grade": 20
+      },
+      {
+        "name": "Vahag",
+        "surname": "Stepanyan",
+        "grade": 12
+      },
+      {
+        "name": "Syuzanna",
+        "surname": "Makaryan",
+        "grade": 18
+      },
+      {
+        "name": "Qristine",
+        "surname": "Arshakyan",
+        "grade": 16
+      },
+      {
+        "name": "Stepan",
+        "surname": "Arzumanyan",
+        "grade": 19
+      },
+      {
+        "name": "Nelson",
+        "surname": "Khachatryan",
+        "grade": 15
+      },
+      {
+        "name": "Gor",
+        "surname": "Margaryan",
+        "grade": 16
+      },
+      {
+        "name": "Galust",
+        "surname": "Ishkhanyan",
+        "grade": 14
+      },
+      {
+        "name": "Tatev",
+        "surname": "Hayrapetyan",
+        "grade": 19
+      }
+    ]
+  },
+  {
+    "key": "social",
+    "students": [
+      {
+        "name": "Astghik",
+        "surname": "Karapetyan",
+        "grade": 18
+      },
+      {
+        "name": "Vahag",
+        "surname": "Stepanyan",
+        "grade": 12
+      },
+      {
+        "name": "Syuzanna",
+        "surname": "Makaryan",
+        "grade": 18
+      },
+      {
+        "name": "Qristine",
+        "surname": "Arshakyan",
+        "grade": 16
+      },
+      {
+        "name": "Stepan",
+        "surname": "Arzumanyan",
+        "grade": 19
+      },
+      {
+        "name": "Nelson",
+        "surname": "Khachatryan",
+        "grade": 15
+      },
+      {
+        "name": "Gor",
+        "surname": "Margaryan",
+        "grade": 16
+      },
+      {
+        "name": "Galust",
+        "surname": "Ishkhanyan",
+        "grade": 14
+      },
+      {
+        "name": "Tatev",
+        "surname": "Hayrapetyan",
+        "grade": 19
+      }
+    ]
+  },
+  {
+    "key": "medecine",
+    "students": [
+      {
+        "name": "Aram",
+        "surname": "Poghosyan",
+        "grade": 16
+      },
+      {
+        "name": "Vahag",
+        "surname": "Stepanyan",
+        "grade": 12
+      },
+      {
+        "name": "Syuzanna",
+        "surname": "Makaryan",
+        "grade": 18
+      },
+      {
+        "name": "Qristine",
+        "surname": "Arshakyan",
+        "grade": 16
+      },
+      {
+        "name": "Stepan",
+        "surname": "Arzumanyan",
+        "grade": 19
+      },
+      {
+        "name": "Nelson",
+        "surname": "Khachatryan",
+        "grade": 15
+      },
+      {
+        "name": "Gor",
+        "surname": "Margaryan",
+        "grade": 16
+      },
+      {
+        "name": "Galust",
+        "surname": "Ishkhanyan",
+        "grade": 14
+      },
+      {
+        "name": "Tatev",
+        "surname": "Hayrapetyan",
+        "grade": 19
+      }
+    ]
+  },
+  {
+    "key": "health",
+    "students": [
+      {
+        "name": "Vardan",
+        "surname": "Asatryan",
+        "grade": 14
+      },
+      {
+        "name": "Vahag",
+        "surname": "Stepanyan",
+        "grade": 12
+      },
+      {
+        "name": "Syuzanna",
+        "surname": "Makaryan",
+        "grade": 18
+      },
+      {
+        "name": "Qristine",
+        "surname": "Arshakyan",
+        "grade": 16
+      },
+      {
+        "name": "Stepan",
+        "surname": "Arzumanyan",
+        "grade": 19
+      },
+      {
+        "name": "Nelson",
+        "surname": "Khachatryan",
+        "grade": 15
+      },
+      {
+        "name": "Gor",
+        "surname": "Margaryan",
+        "grade": 16
+      },
+      {
+        "name": "Galust",
+        "surname": "Ishkhanyan",
+        "grade": 14
+      },
+      {
+        "name": "Tatev",
+        "surname": "Hayrapetyan",
+        "grade": 19
+      }
+    ]
+  },
+  {
+    "key": "stomatology",
+    "students": [
+      {
+        "name": "Khoren",
+        "surname": "Zaqaryan",
+        "grade": 20
+      },
+      {
+        "name": "Vahag",
+        "surname": "Stepanyan",
+        "grade": 12
+      },
+      {
+        "name": "Syuzanna",
+        "surname": "Makaryan",
+        "grade": 18
+      },
+      {
+        "name": "Qristine",
+        "surname": "Arshakyan",
+        "grade": 16
+      },
+      {
+        "name": "Stepan",
+        "surname": "Arzumanyan",
+        "grade": 19
+      },
+      {
+        "name": "Nelson",
+        "surname": "Khachatryan",
+        "grade": 15
+      },
+      {
+        "name": "Gor",
+        "surname": "Margaryan",
+        "grade": 16
+      },
+      {
+        "name": "Galust",
+        "surname": "Ishkhanyan",
+        "grade": 14
+      },
+      {
+        "name": "Tatev",
+        "surname": "Hayrapetyan",
+        "grade": 19
+      }
+    ]
+  }
+]

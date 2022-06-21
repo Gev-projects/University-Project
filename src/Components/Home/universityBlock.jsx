@@ -1,4 +1,5 @@
 import React, {useEffect, useState} from "react";
+import { Link, link } from "react-router-dom";
 
 function UniversityBlock({ univer }) {
 
@@ -6,9 +7,12 @@ function UniversityBlock({ univer }) {
   
   const faculties = univer.faculties.map((item, index) => {
     return (
-      <div key={index} className="text-zinc-300 pt-4 hover:text-white">
+      <Link to={`/faculties/${item.key}`}>
+        <div key={index} className="text-zinc-300 pt-4 hover:text-white">
           {item.name}
-      </div>
+        </div>
+      </Link>
+      
      )
   })
 
