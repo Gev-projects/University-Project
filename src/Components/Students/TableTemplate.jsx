@@ -16,9 +16,9 @@ function TableTemplate({list}) {
     <table className="tab">
       <thead className="tabhead">
         <tr>
-          <th className="tabhead">Namessssssssssssssssssssssssssssss</th>
+          <th className="tabhead">Namesssssssssssssssssssssssssssss</th>
           <th className="tabhead">Surname</th>
-          <th className="tabhead">Grade</th>0
+          <th className="tabhead">Grade</th>
         </tr>
       </thead>
       <tbody>
