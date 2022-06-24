@@ -6,14 +6,12 @@ import {BrowserRouter as Router, Route, Routes} from 'react-router-dom'
 
 function Layout() {
   return (
-    <>
     <Router>
       <Routes>
          <Route exact path="/" element={<HomePage />} /> 
          <Route path="/faculties/:key" element={<StudentsPage />} />
       </Routes>
     </Router>
-    </>
   );
 }
 

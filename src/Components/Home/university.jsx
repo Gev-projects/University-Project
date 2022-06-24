@@ -9,9 +9,8 @@ const list = univerList.map((item, index) => {
 });
   
 function University() {
-  
     return (
-      <div className="flex flex-col items-center">
+      <div className="flex flex-col items-center px-4">
          {list}        
       </div>
      )

@@ -7,7 +7,6 @@ function HomePage() {
   return (
     <div className="h-full w-full max-h-full">
       <Background />
-     
       <Header />
       <University />
   </div>

@@ -1,5 +1,5 @@
-import React, {useEffect, useState} from "react";
-import { Link, link } from "react-router-dom";
+import React, { useState} from "react";
+import { Link } from "react-router-dom";
 
 function UniversityBlock({ univer }) {
 
@@ -17,7 +17,7 @@ function UniversityBlock({ univer }) {
   })
 
   return (
-    <div className="border border-gray-200 cursor-pointer select-none shadow-xl rounded-lg min-h-10 w-max p-2 pt-1 m-5">
+    <div className="border border-gray-200 cursor-pointer select-none shadow-xl rounded-lg min-h-10 p-2 pt-1 m-5 w-[480px] max-w-full">
       <p className="text-white text-2xl hover:text-blue-300" onClick={() => { setOpen(item => !item) }}>{univer.name}</p>    
       <div className={isOpen? "block": "hidden"}>
          {faculties}

@@ -9,38 +9,38 @@
   background-repeat: no-repeat;
   background-size: cover;
   opacity: 0.5;
-  height: 805px;
+  height: 100vh;
   max-width: 100%;
   width: 100%;
 }
 
-.home-black-layer{
+.home-black-layer {
   background-color: black;
   background-size: cover;
-  height: 806px;
+  height: 100vh;
   max-width: 100%;
   width: 100%;
   position: fixed;
   z-index: -1;
 }
 
-.tab{
+.tab {
   height: max-content;
   width: 50%;
   margin: 0 auto;
   border: 1px solid white;
 }
 
-.tabhead{
+.tabhead {
   background: white;
 }
 
-.tabhead{
+.tabhead {
   border-right: 1px solid black;
   padding: 2px;
 }
 
-.tabdata{
+.tabdata {
   border: 1px solid white;
   color: white;
 }
